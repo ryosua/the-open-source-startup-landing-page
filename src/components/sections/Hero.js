@@ -61,7 +61,7 @@ const Hero = ({
                   <Button tag="a" color="primary" wideMobile href="https://www.youtube.com/channel/UClqbavbIJWxl-iMBpHb37JA/featured">
                     Start Watching
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/ryosua/the-open-source-startup">
+                  <Button tag="a" color="dark" wideMobile href="https://github.com/the-open-source-startup">
                     View on Github
                     </Button>
                 </ButtonGroup>
