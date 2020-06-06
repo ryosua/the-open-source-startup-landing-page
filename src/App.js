@@ -28,7 +28,7 @@ const App = () => {
     document.body.classList.add('is-loaded')
     childRef.current.init();
     trackPage(page);
-    // eslint-disable-next-line react-hooks/exhaustive-depsgit config --global user.name
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [location]);
 
   return (
