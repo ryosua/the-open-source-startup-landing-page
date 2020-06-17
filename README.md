@@ -26,6 +26,8 @@ This landing page was built using an open source theme. The original theme can b
 
 ## How to Contribute
 
+To contribute to this repo, you will need a basic understanding of Git and Github. Here are some resources to help learn - https://try.github.io/
+
 1. [Fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) this repo
 2. [Find an issue with no assignee](https://github.com/the-open-source-startup/the-open-source-startup/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee)
 3. Comment on the issue and say something along the lines of "I'd like to work on this"
